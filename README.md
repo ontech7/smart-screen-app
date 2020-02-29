@@ -8,15 +8,13 @@ To make it work properly, you'll need [Smart Screen](https://github.com/ontech7/
 
 # Run & Build
 
-To run it, you'll need [Node.js](https://nodejs.org/) for NPM and Node itself.
+To build it, you'll need [Node.js](https://nodejs.org/) for NPM and Node itself, as well as [Android Studio](https://developer.android.com/studio) and its Android SDK tools (that you can download directly from the IDE).
 
 You need to install all the packages first:
 
 `npm install`
 
 And after that, you need to build the Android Studio project in platforms/android
-
-You'll need [Android Studio](https://developer.android.com/studio) and its Android SDK tools (that you can download directly from the IDE)
 
 # Settings
 
@@ -33,4 +31,4 @@ You can set up
 
 # Sorry
 
-The UI is poor designed.
+The UI is poorly designed.
