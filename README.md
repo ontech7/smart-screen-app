@@ -4,7 +4,7 @@ Mobile application for Smart Screen
 
 # Smart Screen
 
-To make it work properly, you'll need the [Smart Screen]()
+To make it work properly, you'll need [Smart Screen](https://github.com/ontech7/smart-screen-app)
 
 # Run & Build
 
@@ -29,4 +29,4 @@ You can set up
 - Disable Pointer (if using Desktop environment)
 - Clear Notifications
 
-* You'll need an open-weather account in order to set the API KEY inside the main project (see [SmartScreen]())
+&ast; You'll need an open-weather account in order to set the API KEY inside the main project (see [SmartScreen](https://github.com/ontech7/smart-screen-app))
