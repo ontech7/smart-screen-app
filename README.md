@@ -30,3 +30,7 @@ You can set up
 - Clear Notifications
 
 &ast; You'll need an open-weather account in order to set the API KEY inside the main project (see [SmartScreen](https://github.com/ontech7/smart-screen))
+
+# Sorry
+
+The UI is poor designed.
