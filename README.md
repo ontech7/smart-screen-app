@@ -5,7 +5,7 @@ Mobile application for Smart Screen
 ## Contents
 
 - [Smart Screen](#smart-screen)
-- [Run & Build](#run-&-build)
+- [Run & Build](#run--build)
 - [Settings](#settings)
 - [Sorry](#sorry)
 - [Credits](#credits)
